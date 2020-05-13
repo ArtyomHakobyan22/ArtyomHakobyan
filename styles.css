@@ -1,0 +1,91 @@
+body {
+    display: block;
+    margin: 0px;
+    margin-top: -4px;
+    margin-right: 1450px;
+    background-image: url(./back.jpg);
+    width: auto;
+    height: 937px;
+    background-repeat: no-repeat;
+}
+
+.container1 {
+    position: relative;
+}
+
+.me {
+    position: absolute;
+    background-size: cover;
+    border-radius: 25%;
+    top: 20px;
+    left: 20px;
+    height: 172px;
+    width: 154px;
+}
+
+.vertical {
+    position: absolute;
+    border-right: 1px solid #00a3cc;
+    top: 20px;
+    left: 194px;
+    height: 172px;
+    float: right;
+}
+
+.name {
+    position: absolute;
+    height: 650px;
+    width: 900px;
+    float: right;
+    top: -220px;
+    left: 145px;
+}
+
+.age {
+    position: absolute;
+    height: 120px;
+    width: 150px;
+    float: right;
+    top: 33px;
+    left: 207px;
+}
+
+.student {
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    float: right;
+    top: -3px;
+    left: 175px;
+}
+
+.aca {
+    position: absolute;
+    display: block;
+    float: right;
+    height: 161px;
+    width: 191px;
+    left: 315px;
+    top: 45px;
+}
+
+.container2 {
+    position: relative;
+}
+
+.experience {
+    position: absolute;
+    height: 400px;
+    width: 650px;
+    float: right;
+    top: 88px;
+    left: 1252px;
+}
+
+.horizontal {
+    position: absolute;
+    width: 537px;
+    top: 294px;
+    left: 1304px;
+    border-color: #00a3cc;
+}
