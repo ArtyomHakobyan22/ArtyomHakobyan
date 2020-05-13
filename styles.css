@@ -9,22 +9,6 @@ body {
     background-repeat: no-repeat;
 }
 
-h1 {
-    color: #00a3cc;
-    text-align: center;
-    margin: 4px;
-    font-family: monospace;
-    float: right;
-}
-
-p {
-    color:#00a3cc;
-    text-align: center;
-    margin: 4px;
-    font-family: monospace;
-    float: right;
-}
-
 .vertical {
     border-right: 2px solid #00a3cc;
     margin-top: -173px;
@@ -48,8 +32,8 @@ img {
     height: 650px;
     width: 900px;
     float: right;
-    margin-top: -410px;
-    margin-right: -650px;
+    margin-top: -90%;
+    margin-right: -143%;
 }
 
 .age {
@@ -73,4 +57,17 @@ img {
     float: right;
     margin-top: -173px;
     margin-right: -200px;
+}
+
+.experience {
+    height: 400px;
+    width: 650px;
+    float: right;
+    margin-right: -1450px;
+    margin-top: -320px;
+}
+
+.horizontal {
+    width: 650px;
+    margin-right: -1400px;
 }
