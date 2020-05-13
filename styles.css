@@ -9,65 +9,83 @@ body {
     background-repeat: no-repeat;
 }
 
-.vertical {
-    border-right: 2px solid #00a3cc;
-    margin-top: -173px;
-    margin-right: 200px;
-    height: 172px;
-    float: right;
+.container1 {
+    position: relative;
 }
 
-img {
+.me {
+    position: absolute;
     background-size: cover;
     border-radius: 25%;
-    display: block;
-    margin-top: 20px;
-    margin-left: 70px;
-    margin-right: auto;
+    top: 20px;
+    left: 20px;
     height: 172px;
     width: 154px;
 }
 
+.vertical {
+    position: absolute;
+    border-right: 1px solid #00a3cc;
+    top: 20px;
+    left: 194px;
+    height: 172px;
+    float: right;
+}
+
 .name {
+    position: absolute;
     height: 650px;
     width: 900px;
     float: right;
-    margin-top: -90%;
-    margin-right: -143%;
+    top: -220px;
+    left: 145px;
 }
 
 .age {
+    position: absolute;
     height: 120px;
     width: 150px;
     float: right;
-    margin-right: 39px;
-    margin-top: -395px;
+    top: 33px;
+    left: 207px;
 }
 
 .student {
+    position: absolute;
     height: 400px;
     width: 500px;
     float: right;
-    margin-top: -437px;
-    margin-right: -280px;
+    top: -3px;
+    left: 175px;
 }
 
 .aca {
+    position: absolute;
     display: block;
     float: right;
-    margin-top: -173px;
-    margin-right: -200px;
+    height: 161px;
+    width: 191px;
+    left: 315px;
+    top: 45px;
+}
+
+.container2 {
+    position: relative;
 }
 
 .experience {
+    position: absolute;
     height: 400px;
     width: 650px;
     float: right;
-    margin-right: -1450px;
-    margin-top: -320px;
+    top: 88px;
+    left: 1252px;
 }
 
 .horizontal {
-    width: 650px;
-    margin-right: -1400px;
+    position: absolute;
+    width: 537px;
+    top: 294px;
+    left: 1304px;
+    border-color: #00a3cc;
 }
