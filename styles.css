@@ -155,11 +155,11 @@ body {
 }
 
 .container3 {
-    position: absolute;
+    position: fixed;
     left: 37%;
     height: 50px;
     width: 500px;
-    bottom: 0%;
+    bottom: 0;
     background: rgba(255, 255, 255, 0.1);
     text-align: center;
     border: 1px solid #00a3cc;
