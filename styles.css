@@ -23,7 +23,7 @@ body {
     width: 154px;
 }
 
-.vertical {
+.vertical1 {
     position: absolute;
     border-right: 1px solid #00a3cc;
     top: 20px;
@@ -48,6 +48,14 @@ body {
     float: right;
     top: 33px;
     left: 207px;
+}
+
+.horizontal1 {
+    position: absolute;
+    width: 638px;
+    top: 116px;
+    left: 162px;
+    border-color: #00a3cc;
 }
 
 .student {
@@ -82,10 +90,97 @@ body {
     left: 1252px;
 }
 
-.horizontal {
+.horizontal2 {
     position: absolute;
-    width: 537px;
+    width: 590px;
     top: 294px;
     left: 1304px;
     border-color: #00a3cc;
+}
+
+.line_1 {
+    position: absolute;
+    width: 326px;
+    height: 340px;
+    top: 194px;
+    right: -1278px;
+}
+
+.deloitte {
+    position: absolute;
+    height: 22px;
+    width: 110px;
+    top: 159px;
+    right: -685px;
+}
+
+.line_2{
+    position: absolute;
+    width: 269px;
+    height: 211px;
+    top: 299px;
+    right: -1274px;
+}
+
+.bet {
+    position: absolute;
+    height: 95px;
+    width: 140px;
+    top: 169px;
+    right: -692px;
+
+}
+
+.vertical2 {
+    position: absolute;
+    border-right: 1px solid #00a3cc;
+    top: 235px;
+    right: -1401px;
+    height: 164px;
+}
+
+.horizontal3 {
+    position: absolute;
+    width: 447px;
+    top: 350px;
+    right: -1426px;
+    border-color: #00a3cc;
+}
+
+.container3 {
+    position: absolute;
+    left: 37%;
+    height: 50px;
+    width: 500px;
+    bottom: 0%;
+    background: rgba(255, 255, 255, 0.1);
+    text-align: center;
+    border: 1px solid #00a3cc;
+    border-bottom: none;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.facebook {
+    position: absolute;
+    height: 50px;
+    width: 68px;
+    top: 2px;
+    right: 396px;
+}
+
+.github {
+    position: absolute;
+    height: 39px;
+    width: 38px;
+    top: 7px;
+    right: 225px;
+}
+
+.linkedin {
+    position: absolute;
+    height: 41px;
+    width: 41px;
+    top: 8px;
+    right: 47px;
 }
