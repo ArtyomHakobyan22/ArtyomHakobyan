@@ -92,6 +92,7 @@ body {
 
 .horizontal2 {
     position: absolute;
+    float: right;
     width: 590px;
     top: 294px;
     left: 1304px;
@@ -100,50 +101,56 @@ body {
 
 .line_1 {
     position: absolute;
+    float: right;
     width: 326px;
     height: 340px;
     top: 194px;
-    right: -1278px;
+    left: 1406px;
 }
 
 .deloitte {
     position: absolute;
+    float: right;
     height: 22px;
     width: 110px;
     top: 159px;
-    right: -685px;
+    left: 856px;
 }
 
 .line_2{
     position: absolute;
+    float: right;
     width: 269px;
     height: 211px;
-    top: 299px;
-    right: -1274px;
+    top: 298px;
+    left: 1458px;
 }
 
 .bet {
     position: absolute;
+    float: right;
     height: 95px;
     width: 140px;
     top: 169px;
-    right: -692px;
+    left: 849px;
 
 }
 
 .vertical2 {
     position: absolute;
+    float: right;
     border-right: 1px solid #00a3cc;
     top: 235px;
-    right: -1401px;
+    left: 1861px;
     height: 164px;
 }
 
 .horizontal3 {
     position: absolute;
-    width: 447px;
+    float: right;
+    width: 463px;
     top: 350px;
-    right: -1426px;
+    left: 1431px;
     border-color: #00a3cc;
 }
 
@@ -156,7 +163,6 @@ body {
     background: rgba(255, 255, 255, 0.1);
     text-align: center;
     border: 1px solid #00a3cc;
-    border-bottom: none;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
 }
