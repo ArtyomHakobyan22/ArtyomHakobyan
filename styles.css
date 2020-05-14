@@ -1,11 +1,8 @@
 body {
     display: block;
-    margin: 0px;
-    margin-top: -4px;
-    margin-right: 1450px;
     background-image: url(./back.jpg);
     width: auto;
-    height: 937px;
+    height: auto;
     background-repeat: no-repeat;
 }
 
@@ -159,7 +156,7 @@ body {
     left: 37%;
     height: 50px;
     width: 500px;
-    bottom: 0;
+    bottom: 0px;
     background: rgba(255, 255, 255, 0.1);
     text-align: center;
     border: 1px solid #00a3cc;
