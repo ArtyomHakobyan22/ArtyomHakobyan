@@ -4,6 +4,7 @@ body {
     width: auto;
     height: auto;
     background-repeat: no-repeat;
+    overflow-x: hidden;
 }
 
 .container1 {
@@ -70,8 +71,8 @@ body {
     float: right;
     height: 161px;
     width: 191px;
-    left: 315px;
-    top: 45px;
+    left: 623px;
+    top: 92px;
 }
 
 .container2 {
